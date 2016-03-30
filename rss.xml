@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Is technology really helping ALL mankind?]]></title>
         <description><![CDATA[Is technology really helping ALL mankind?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/social-technology/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 22:32:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 13:33:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/social-technology/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a54f8086-8337-4263-8448-77360f3b323f.jpg">]]></description>
-            <link>undefinedtechnology-has-come-the-principal-differentiator-factor-in-h/index.html</link>
+            <title><![CDATA[Tech-Gap Manifesto ]]></title>
+            <description><![CDATA[<article><h1>Tech-Gap Manifesto </h1><p>Technology has come the principal differentiator factor in human development. Unfortunately, there is a giant breach that separates available technology and actual needs.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a54f8086-8337-4263-8448-77360f3b323f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/social-technology/technology-has-come-the-principal-differentiator-factor-in-h/index.html</link>
             <guid isPermaLink="false">954dd308-6f04-462b-867c-74a51f99816d</guid>
-            <pubDate>Tue, 29 Mar 2016 22:32:13 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 13:33:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
