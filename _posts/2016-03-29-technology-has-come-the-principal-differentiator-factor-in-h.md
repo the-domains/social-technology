@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Technology has come the principal differentiator factor in human development. Unfortunately, there is a giant breach that separates available technology and actual needs.'
-datePublished: '2016-03-29T22:32:13.560Z'
-dateModified: '2016-03-29T22:31:50.691Z'
-title: ''
+datePublished: '2016-03-30T13:33:33.536Z'
+dateModified: '2016-03-29T22:33:50.430Z'
+title: 'Tech-Gap Manifesto '
 author: []
+sourcePath: _posts/2016-03-29-technology-has-come-the-principal-differentiator-factor-in-h.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-29-technology-has-come-the-principal-differentiator-factor-in-h.md
-published: true
 url: technology-has-come-the-principal-differentiator-factor-in-h/index.html
 _type: Article
 
